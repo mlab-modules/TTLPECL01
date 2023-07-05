@@ -4,13 +4,15 @@ github_repo: TTLPECL01
 github_url: https://github.com/mlab-modules/TTLPECL01
 homepage: false
 images:
-- doc/img/TTLPECL01A_top_small.jpg
-- doc/img/TTLPECL01A_top_big.jpg
 - doc/img/TTLPECL01A_top_big2.jpg
-- doc/img/TTLPECL01A_QRcode.png
+- doc/img/TTLPECL01A_top_big.jpg
+- doc/img/TTLPECL01A_top_small.jpg
 - doc/QRcode/TTLPECL01A_QRcode.png
+- doc/img/TTLPECL01A_QRcode.png
 - hw/cam_doc/PCB.png
 - doc/QRcode/TTLPECL01A_QRcode.svg
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: TTLPECL01
