@@ -12,6 +12,7 @@ images:
 - hw/cam_doc/PCB.png
 - doc/QRcode/TTLPECL01A_QRcode.svg
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
